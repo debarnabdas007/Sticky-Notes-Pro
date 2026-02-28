@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 30
     
     # Database
-    DATABASE_URL: str = "sqlite:///./sticky_app.db"
+    DATABASE_URL: str 
 
     class Config:
         case_sensitive = True
