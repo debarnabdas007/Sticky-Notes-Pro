@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.12-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-green) ![SQLite](https://img.shields.io/badge/SQLite-%20-lightgrey)
 
+## LIVE: https://aegis-aero.onrender.com](https://sticky-notes-pro-dun.vercel.app/
+
 **Sticky Notes Pro** is a student‑friendly full‑stack to‑do application built with FastAPI on the backend and vanilla HTML/CSS/JavaScript on the frontend. The interface mimics real sticky notes with drag‑and‑drop ordering and color customization. Users can sign up, log in, and manage personal notes; the backend persists data using SQLAlchemy and JWT‑based authentication.
 
 This README walks you through understanding the entire codebase, running the project locally, and exploring the architecture — perfect for review or learning purposes.
