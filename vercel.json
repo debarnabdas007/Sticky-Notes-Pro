@@ -11,8 +11,12 @@
       "dest": "main.py"
     },
     {
+      "src": "/",
+      "dest": "/src/static/index.html"
+    },
+    {
       "src": "/(.*)",
-      "dest": "/$1"
+      "dest": "/src/static/$1"
     }
   ]
 }
